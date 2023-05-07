@@ -1,0 +1,26 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "CRUK Technical",
+  "main": "index.js",
+  "scripts": {
+    "test": "Make a donation"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PCForeman/CypressCruk.git"
+  },
+  "keywords": [
+    "Cypress"
+  ],
+  "author": "Paul Foreman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PCForeman/CypressCruk/issues"
+  },
+  "homepage": "https://github.com/PCForeman/CypressCruk#readme",
+  "devDependencies": {
+    "cypress": "^12.11.0",
+    "cypress-iframe": "^1.0.1"
+  }
+}

@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/PCForeman/CypressCruk#readme",
   "devDependencies": {
-    "cypress": "^12.11.0",
-    "cypress-iframe": "^1.0.1"
+    "cypress": "^12.11.0"
   }
 }
